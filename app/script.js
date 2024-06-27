@@ -1,1 +1,5 @@
-console.log('Hello');
+function hello() {
+  console.log('Hello');
+}
+
+let btn;
